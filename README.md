@@ -14,14 +14,25 @@ Last updated: July 17th 2022
 ## Working:
 
 - Keyboard
+
 - Graphics
+
+  ![Screen Shot 2022-07-17 at 11.05.39 PM](/Users/yoyo/Desktop/Screen Shot 2022-07-17 at 11.05.39 PM.png)
+
 - Bluetooth
+
 - Wifi (WITHOUT HeliPort YAY!!)
+
 - Messages And Facetime
+
 - Camera (using an external Logitech Webcam)
+
 - Microphone
+
 - Speakers
+
 - Battery
+
 - Mostly no lag when drive on right usb slot
 
 ## Needs work:
