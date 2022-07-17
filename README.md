@@ -30,4 +30,5 @@ Last updated: July 17th 2022
 - No Airdrop or Handoff
 - Backlit Keyboard
 - Internal Webcam cannot be used
-- Boot time WAYYYYY too long
+- Boot time WAYYYYY too long(can only be fixed by replacing WD EHD to SSD) verbose: 5,12mins ; Normal: 4,45mins
+- Battery draining fast
